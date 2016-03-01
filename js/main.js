@@ -18,6 +18,6 @@ var storyA = function () {
 
 var storyB = function () {
 
-  document.write
+  document.write("Ameilia " + verb + "through the" + adjective + " " + colour + "nebula escaping the space" + creature + ".")
 }
 
