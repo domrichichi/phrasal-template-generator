@@ -28,6 +28,10 @@ Var storyC = function () {
 
 alert("Let's make a story together!");
 
-if (story == "a" || story == "B") {
-  storyB()
+if (story == "a" || story == "A") {
+  storyA();
+} else if (story == "b" || story == "B") {
+  storyB();
+} else if (story == "c" || story == "C") {
+  storyC();
 }
