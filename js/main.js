@@ -14,5 +14,5 @@ var storyA = function () {
 
   document.write("After snacking on " + adjective + "treats, the" + colour + "bellied" + creature + " " + verb + "for hours.");
 
-}
+};
 
