@@ -27,3 +27,7 @@ Var storyC = function () {
 };
 
 alert("Let's make a story together!");
+
+if (story == "a" || story == "B") {
+  storyB()
+}
