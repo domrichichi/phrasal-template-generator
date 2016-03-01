@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Letter Looper Triangle</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-</head>
-<body>
+var intro = alert("Let's make a story together!");
 
-  <script src="js/main.js"></script>
+var colour = prompt("A colour (orange, indego, etc.}");
 
-</body>
-</html>
+var creature = prompt("A creature (dragon, moth, etc.");
