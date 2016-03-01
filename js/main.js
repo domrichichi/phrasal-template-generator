@@ -18,6 +18,12 @@ var storyA = function () {
 
 var storyB = function () {
 
-  document.write("Ameilia " + verb + "through the" + adjective + " " + colour + "nebula escaping the space" + creature + ".")
-}
+  document.write("Ameilia " + verb + "through the " + adjective + " " + colour + "nebula escaping the space " + creature + ".")
+};
 
+Var storyC = function () {
+
+  document.write("Jackson chose his" + adjective + ", " + colour + creature + "and " + verb + "it to the table knowing he won.")
+};
+
+alert("Let's make a story together!");
