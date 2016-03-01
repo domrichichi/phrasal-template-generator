@@ -16,3 +16,8 @@ var storyA = function () {
 
 };
 
+var storyB = function () {
+
+  document.write
+}
+
