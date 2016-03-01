@@ -34,4 +34,6 @@ if (story == "a" || story == "A") {
   storyB();
 } else if (story == "c" || story == "C") {
   storyC();
-}
+} else {
+  document.write("You are no fun.");
+};
